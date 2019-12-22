@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dbmsproject</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_cgpa">Enter CGPA</string>
+    <string name="insert">Insert</string>
+    <string name="display">Display</string>
+    <string name="next">Next</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send_message">Send Message</string>
+    <string name="enter_gpa">Enter GPA</string>
+</resources>
